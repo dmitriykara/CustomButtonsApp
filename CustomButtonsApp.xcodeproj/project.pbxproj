@@ -13,6 +13,7 @@
 		5EAF79BD25C2DA58004185E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF79BB25C2DA58004185E2 /* Main.storyboard */; };
 		5EAF79BF25C2DA5A004185E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF79BE25C2DA5A004185E2 /* Assets.xcassets */; };
 		5EAF79C225C2DA5A004185E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EAF79C025C2DA5A004185E2 /* LaunchScreen.storyboard */; };
+		5EAF79CC25C2DBBA004185E2 /* FancyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EAF79CB25C2DBBA004185E2 /* FancyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5EAF79BE25C2DA5A004185E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EAF79C125C2DA5A004185E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5EAF79C325C2DA5A004185E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EAF79CB25C2DBBA004185E2 /* FancyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FancyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				5EAF79BE25C2DA5A004185E2 /* Assets.xcassets */,
 				5EAF79C025C2DA5A004185E2 /* LaunchScreen.storyboard */,
 				5EAF79C325C2DA5A004185E2 /* Info.plist */,
+				5EAF79CB25C2DBBA004185E2 /* FancyButton.swift */,
 			);
 			path = CustomButtonsApp;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5EAF79BA25C2DA58004185E2 /* ViewController.swift in Sources */,
+				5EAF79CC25C2DBBA004185E2 /* FancyButton.swift in Sources */,
 				5EAF79B625C2DA58004185E2 /* AppDelegate.swift in Sources */,
 				5EAF79B825C2DA58004185E2 /* SceneDelegate.swift in Sources */,
 			);
